@@ -1,3 +1,3 @@
 number=$(($RANDOM%50));
-quote_url="https://zenquotes.io/api/quotes";
-curl --silent $quote_url|jq --argjson num "$number" '.[$num].q';
+curl --silent "https://zenquotes.io/api/quotes" |json_pp > quote.json;
+jq --argjson num "$number" '.[$num].q' quote.json;

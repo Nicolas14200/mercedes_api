@@ -1,0 +1,302 @@
+[
+   {
+      "a" : "Og Mandino",
+      "c" : "118",
+      "h" : "<blockquote>&ldquo;Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>",
+      "q" : "Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity."
+   },
+   {
+      "a" : "Dalai Lama",
+      "c" : "58",
+      "h" : "<blockquote>&ldquo;Don't let the behavior of others destroy your inner peace.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>",
+      "q" : "Don't let the behavior of others destroy your inner peace."
+   },
+   {
+      "a" : "Wayne Dyer",
+      "c" : "79",
+      "h" : "<blockquote>&ldquo;It's easy to be a critic, but being a doer requires effort, risk, and change.  &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>",
+      "q" : "It's easy to be a critic, but being a doer requires effort, risk, and change.  "
+   },
+   {
+      "a" : "Wayne Gretzky",
+      "c" : "42",
+      "h" : "<blockquote>&ldquo;You miss 100% of the shots you don't take.&rdquo; &mdash; <footer>Wayne Gretzky</footer></blockquote>",
+      "q" : "You miss 100% of the shots you don't take."
+   },
+   {
+      "a" : "Thomas Jefferson",
+      "c" : "109",
+      "h" : "<blockquote>&ldquo;Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>",
+      "q" : "Determine never to be idle. No person will have occasion to complain of the want of time who never loses any."
+   },
+   {
+      "a" : "Honore de Balzac",
+      "c" : "39",
+      "h" : "<blockquote>&ldquo;Our greatest fears lie in anticipation.&rdquo; &mdash; <footer>Honore de Balzac</footer></blockquote>",
+      "q" : "Our greatest fears lie in anticipation."
+   },
+   {
+      "a" : "Joyce Meyer",
+      "c" : "80",
+      "h" : "<blockquote>&ldquo;Strive for excellence, not perfection, because we don't live in a perfect world.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>",
+      "q" : "Strive for excellence, not perfection, because we don't live in a perfect world."
+   },
+   {
+      "a" : "Robert Kiyosaki",
+      "c" : "44",
+      "h" : "<blockquote>&ldquo;People who avoid failure also avoid success.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>",
+      "q" : "People who avoid failure also avoid success."
+   },
+   {
+      "a" : "Genghis Khan",
+      "c" : "52",
+      "h" : "<blockquote>&ldquo;There is no value in anything until it is finished. &rdquo; &mdash; <footer>Genghis Khan</footer></blockquote>",
+      "q" : "There is no value in anything until it is finished. "
+   },
+   {
+      "a" : "Eric Hoffer",
+      "c" : "57",
+      "h" : "<blockquote>&ldquo;To be fully alive is to feel that everything is possible.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>",
+      "q" : "To be fully alive is to feel that everything is possible."
+   },
+   {
+      "a" : "Steve Harvey",
+      "c" : "65",
+      "h" : "<blockquote>&ldquo;Growth is in a series of mistakes. That's the only way you learn.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>",
+      "q" : "Growth is in a series of mistakes. That's the only way you learn."
+   },
+   {
+      "a" : "Voltaire",
+      "c" : "86",
+      "h" : "<blockquote>&ldquo;It is dangerous to be right in matters on which the established authorities are wrong.&rdquo; &mdash; <footer>Voltaire</footer></blockquote>",
+      "q" : "It is dangerous to be right in matters on which the established authorities are wrong."
+   },
+   {
+      "a" : "Joan Rivers",
+      "c" : "100",
+      "h" : "<blockquote>&ldquo;Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.&rdquo; &mdash; <footer>Joan Rivers</footer></blockquote>",
+      "q" : "Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present."
+   },
+   {
+      "a" : "Deepak Chopra",
+      "c" : "56",
+      "h" : "<blockquote>&ldquo;Within every desire is the mechanics of its fulfillment.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>",
+      "q" : "Within every desire is the mechanics of its fulfillment."
+   },
+   {
+      "a" : "Jon Kabat-Zinn",
+      "c" : "88",
+      "h" : "<blockquote>&ldquo;It is indeed a radical act of love just to sit down and be quiet for a time by yourself.&rdquo; &mdash; <footer>Jon Kabat-Zinn</footer></blockquote>",
+      "q" : "It is indeed a radical act of love just to sit down and be quiet for a time by yourself."
+   },
+   {
+      "a" : "Gustave Flaubert",
+      "c" : "90",
+      "h" : "<blockquote>&ldquo;Be regular and orderly in your life, so that you may be violent and original in your work.&rdquo; &mdash; <footer>Gustave Flaubert</footer></blockquote>",
+      "q" : "Be regular and orderly in your life, so that you may be violent and original in your work."
+   },
+   {
+      "a" : "C. Sean McGee",
+      "c" : "98",
+      "h" : "<blockquote>&ldquo;Only when one allows themself the right to die, do they then give yourself the permission to live.&rdquo; &mdash; <footer>C. Sean McGee</footer></blockquote>",
+      "q" : "Only when one allows themself the right to die, do they then give yourself the permission to live."
+   },
+   {
+      "a" : "Robert Frost",
+      "c" : "139",
+      "h" : "<blockquote>&ldquo;Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.&rdquo; &mdash; <footer>Robert Frost</footer></blockquote>",
+      "q" : "Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it."
+   },
+   {
+      "a" : "Stephen King",
+      "c" : "41",
+      "h" : "<blockquote>&ldquo;Either get busy living or get busy dying.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>",
+      "q" : "Either get busy living or get busy dying."
+   },
+   {
+      "a" : "Robert Greene",
+      "c" : "131",
+      "h" : "<blockquote>&ldquo;Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>",
+      "q" : "Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in."
+   },
+   {
+      "a" : "Vince Lombardi",
+      "c" : "81",
+      "h" : "<blockquote>&ldquo;Perfection is not attainable, but if we chase perfection we can catch excellence.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>",
+      "q" : "Perfection is not attainable, but if we chase perfection we can catch excellence."
+   },
+   {
+      "a" : "James Matthew Barrie",
+      "c" : "125",
+      "h" : "<blockquote>&ldquo;Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it.&rdquo; &mdash; <footer>James Matthew Barrie</footer></blockquote>",
+      "q" : "Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it."
+   },
+   {
+      "a" : "Robin Williams",
+      "c" : "103",
+      "h" : "<blockquote>&ldquo;You will have bad times, but they will always wake you up to the stuff you weren't paying attention to.&rdquo; &mdash; <footer>Robin Williams</footer></blockquote>",
+      "q" : "You will have bad times, but they will always wake you up to the stuff you weren't paying attention to."
+   },
+   {
+      "a" : "George Addair",
+      "c" : "59",
+      "h" : "<blockquote>&ldquo;Everything you've ever wanted is on the other side of fear.&rdquo; &mdash; <footer>George Addair</footer></blockquote>",
+      "q" : "Everything you've ever wanted is on the other side of fear."
+   },
+   {
+      "a" : "T.S. Eliot",
+      "c" : "143",
+      "h" : "<blockquote>&ldquo;We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time.&rdquo; &mdash; <footer>T.S. Eliot</footer></blockquote>",
+      "q" : "We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time."
+   },
+   {
+      "a" : "Ronald Reagan",
+      "c" : "18",
+      "h" : "<blockquote>&ldquo;Trust, but verify.&rdquo; &mdash; <footer>Ronald Reagan</footer></blockquote>",
+      "q" : "Trust, but verify."
+   },
+   {
+      "a" : "Yoko Ono",
+      "c" : "90",
+      "h" : "<blockquote>&ldquo;Some people are old at 18 and some are young at 90. Time is a concept that humans created.&rdquo; &mdash; <footer>Yoko Ono</footer></blockquote>",
+      "q" : "Some people are old at 18 and some are young at 90. Time is a concept that humans created."
+   },
+   {
+      "a" : "Sonia Ricotti",
+      "c" : "117",
+      "h" : "<blockquote>&ldquo;When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you.&rdquo; &mdash; <footer>Sonia Ricotti</footer></blockquote>",
+      "q" : "When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you."
+   },
+   {
+      "a" : "Nikola Tesla",
+      "c" : "103",
+      "h" : "<blockquote>&ldquo;Life is and will ever remain an equation incapable of solution, but it contains certain known factors. &rdquo; &mdash; <footer>Nikola Tesla</footer></blockquote>",
+      "q" : "Life is and will ever remain an equation incapable of solution, but it contains certain known factors. "
+   },
+   {
+      "a" : "Benjamin Franklin",
+      "c" : "49",
+      "h" : "<blockquote>&ldquo;By failing to prepare, you are preparing to fail.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>",
+      "q" : "By failing to prepare, you are preparing to fail."
+   },
+   {
+      "a" : "Morihei Ueshiba",
+      "c" : "54",
+      "h" : "<blockquote>&ldquo;Those who are possessed by nothing possess everything.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>",
+      "q" : "Those who are possessed by nothing possess everything."
+   },
+   {
+      "a" : "Bhagavad Gita",
+      "c" : "67",
+      "h" : "<blockquote>&ldquo;Desire for the fruits of work must never be your motive in working.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>",
+      "q" : "Desire for the fruits of work must never be your motive in working."
+   },
+   {
+      "a" : "Kenneth Branagh",
+      "c" : "47",
+      "h" : "<blockquote>&ldquo;Truth is like most opinions - best unexpressed.&rdquo; &mdash; <footer>Kenneth Branagh</footer></blockquote>",
+      "q" : "Truth is like most opinions - best unexpressed."
+   },
+   {
+      "a" : "Ralph Waldo Emerson",
+      "c" : "93",
+      "h" : "<blockquote>&ldquo;What lies behind us and what lies before us are tiny matters compared to what lies within us.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>",
+      "q" : "What lies behind us and what lies before us are tiny matters compared to what lies within us."
+   },
+   {
+      "a" : "Mark Twain",
+      "c" : "58",
+      "h" : "<blockquote>&ldquo;I have never let my schooling interfere with my education.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>",
+      "q" : "I have never let my schooling interfere with my education."
+   },
+   {
+      "a" : "Robert Frost",
+      "c" : "27",
+      "h" : "<blockquote>&ldquo;Freedom lies in being bold.&rdquo; &mdash; <footer>Robert Frost</footer></blockquote>",
+      "q" : "Freedom lies in being bold."
+   },
+   {
+      "a" : "Christopher McCandless",
+      "c" : "28",
+      "h" : "<blockquote>&ldquo;Make each day a new horizon.&rdquo; &mdash; <footer>Christopher McCandless</footer></blockquote>",
+      "q" : "Make each day a new horizon."
+   },
+   {
+      "a" : "Eleanor Roosevelt",
+      "c" : "47",
+      "h" : "<blockquote>&ldquo;Light a candle instead of cursing the darkness.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>",
+      "q" : "Light a candle instead of cursing the darkness."
+   },
+   {
+      "a" : "Heraclitus",
+      "c" : "124",
+      "h" : "<blockquote>&ldquo;The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>",
+      "q" : "The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become."
+   },
+   {
+      "a" : "George Bernard Shaw",
+      "c" : "41",
+      "h" : "<blockquote>&ldquo;Imagination is the beginning of creation.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>",
+      "q" : "Imagination is the beginning of creation."
+   },
+   {
+      "a" : "Earl Nightingale",
+      "c" : "88",
+      "h" : "<blockquote>&ldquo;All you need is the plan, the road map, and the courage to press on to your destination.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>",
+      "q" : "All you need is the plan, the road map, and the courage to press on to your destination."
+   },
+   {
+      "a" : "George Eliot",
+      "c" : "91",
+      "h" : "<blockquote>&ldquo;Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.&rdquo; &mdash; <footer>George Eliot</footer></blockquote>",
+      "q" : "Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."
+   },
+   {
+      "a" : "Brian Tracy",
+      "c" : "87",
+      "h" : "<blockquote>&ldquo;The more reasons you have for achieving your goal, the more determined you will become.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>",
+      "q" : "The more reasons you have for achieving your goal, the more determined you will become."
+   },
+   {
+      "a" : "Peter A. Cohen",
+      "c" : "98",
+      "h" : "<blockquote>&ldquo;When we think about our strengths, we are strong. When we think about our weaknesses, we are weak.&rdquo; &mdash; <footer>Peter A. Cohen</footer></blockquote>",
+      "q" : "When we think about our strengths, we are strong. When we think about our weaknesses, we are weak."
+   },
+   {
+      "a" : "George Bernard Shaw",
+      "c" : "77",
+      "h" : "<blockquote>&ldquo;Do not fight with pigs - you will be smeared in mud but the pig will like it.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>",
+      "q" : "Do not fight with pigs - you will be smeared in mud but the pig will like it."
+   },
+   {
+      "a" : "Pablo Picasso",
+      "c" : "82",
+      "h" : "<blockquote>&ldquo;I am always doing that which I can not do, in order that I may learn how to do it.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>",
+      "q" : "I am always doing that which I can not do, in order that I may learn how to do it."
+   },
+   {
+      "a" : "Stephen King",
+      "c" : "88",
+      "h" : "<blockquote>&ldquo;The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>",
+      "q" : "The mind can calculate, but the spirit yearns, and the heart wants what the heart wants."
+   },
+   {
+      "a" : "Mark Twain",
+      "c" : "102",
+      "h" : "<blockquote>&ldquo;The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>",
+      "q" : "The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time."
+   },
+   {
+      "a" : "Celestine Chua",
+      "c" : "74",
+      "h" : "<blockquote>&ldquo;Life is a gift. Never forget to enjoy and bask in every moment you are in.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>",
+      "q" : "Life is a gift. Never forget to enjoy and bask in every moment you are in."
+   },
+   {
+      "a" : "Norman Vincent Peale",
+      "c" : "82",
+      "h" : "<blockquote>&ldquo;People who belittle people, will be LITTLE people, and will accomplish very Little&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>",
+      "q" : "People who belittle people, will be LITTLE people, and will accomplish very Little"
+   }
+]
